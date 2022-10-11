@@ -13,3 +13,11 @@ To follow this project, please install the following locally:
 * Python 3.8+
 * Python packages
   * pandas
+  * numpy
+  * matplotlib
+  * seaborn
+  * sklearn
+
+## Data
+
+Data is included as a tsv file 'AmesHousing.'  The data is also downloaded during the project.
