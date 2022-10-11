@@ -12,4 +12,4 @@ To follow this project, please install the following locally:
 * JupyterLab
 * Python 3.8+
 * Python packages
-** pandas
+  * pandas
