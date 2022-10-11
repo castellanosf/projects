@@ -13,4 +13,4 @@ To follow this project, please install the following locally:
 
 ## Data 
 
-Data is included as a db filed 'chinook.'  
+Data is included as a db file 'chinook.'  
