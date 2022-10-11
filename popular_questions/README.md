@@ -16,7 +16,7 @@ To follow this project, please install the following locally:
   * matplotlib
   * seaborn
 
-# Data
+## Data
 
 Data is obtained from Data Science Stack Exchange via their Open Data, where a request by query is made.  The data is also included as two csv files 
 'all_questions' and '2019_questions.'
